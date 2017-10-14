@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Faith That Prays (10/10)
+## James 5:13-20
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/faith-prays.svg)](https://travis-ci.org/sermons/faith-prays)
+[![Node deps](https://david-dm.org/sermons/faith-prays.svg)](https://david-dm.org/sermons/faith-prays)
+[![Node devDeps](https://david-dm.org/sermons/faith-prays/dev-status.svg)](https://david-dm.org/sermons/faith-prays?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
