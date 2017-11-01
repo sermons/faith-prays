@@ -25,7 +25,7 @@ module.exports = (grunt) ->
           'static/css/boldblack.css': 'scss/boldblack.scss'
 
     exec:
-      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
+      print: 'decktape -s 1024x768 reveal "http://localhost:9000/" <%= pkg.pdf %>; true'
       thumbnail: 'decktape -s 800x600 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/#/title" static/img/thumbnail.jpg; true'
       reducePDF: 'mv <%= pkg.pdf %> print.pdf; gs -q -dNOPAUSE -dBATCH -dSAFER -dPDFA=2 -dPDFSETTINGS=/ebook -sDEVICE=pdfwrite -sOutputFile=<%= pkg.pdf %> print.pdf'
       inline: 'script -qec "inliner -m index.html" /dev/null > <%= pkg.shortname %>.html'
@@ -61,6 +61,7 @@ module.exports = (grunt) ->
     buildcontrol:
       options:
         dir: 'dist'
+        force: true
         commit: true
         push: true
         fetchProgress: false
@@ -115,17 +116,12 @@ module.exports = (grunt) ->
       'exec:print'
       'exec:reducePDF'
       'exec:thumbnail'
-    ]
-
-  grunt.registerTask 'dist',
-    'Save presentation files to *dist* directory.', [
       'exec:qr'
-      'copy:dist'
     ]
 
   grunt.registerTask 'deploy',
     'Deploy to Github Pages', [
-      'dist'
+      'copy:dist'
       'cname'
       'nojekyll'
       'buildcontrol:github'
