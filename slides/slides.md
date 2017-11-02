@@ -83,3 +83,11 @@ will **save** them from death <br>
 and **cover** over a multitude of sins. 
 
 [James 5:19-20 (NIV) (p.5/5)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## Faith That Prays [(James 5b)](# "ref")
+1. In Every **Occasion** [(v13-14)](# "ref")
+1. In Unity for **Healing** [(v15-16](# "ref")
+1. In **Testimony** to God's Power [(v17-18)](# "ref")
+1. In **Redemption** of the Wanderers [(v19-20)](# "ref")
