@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# intro question
+# What is **prayer** good for?
 
 [###](#/outline "secret")
 
@@ -88,10 +88,10 @@ and **cover** over a multitude of sins.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## Faith That Prays [(James 5b)](# "ref")
-1. In Every **Occasion** [(v13-14)](# "ref")
-1. In Unity for **Healing** [(v15-16](# "ref")
-1. In **Testimony** to God's Power [(v17-18)](# "ref")
-1. In **Redemption** of the Wanderers [(v19-20)](# "ref")
+1. For All **Occasions** [(v13-14)](# "ref")
+1. For **Healing** in Fellowship [(v15-16](# "ref")
+1. For a **Testimony** of God's Power [(v17-18)](# "ref")
+1. For **Redemption** of the Wanderers [(v19-20)](# "ref")
 
 ---
 Is anyone among you in **trouble**? <br>
