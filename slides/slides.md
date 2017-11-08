@@ -58,7 +58,8 @@ is powerful and **effective**.
 
 ---
 [17](# "ref")
-**Elijah** was a human being, even as we are. <br>
+**Elijah** was a human being, even as we are.
+
 He prayed earnestly that it would not **rain**, <br>
 and it did not rain on the land <br>
 for **three** and a half years.
@@ -194,7 +195,8 @@ and the earth produced its crops.
 ---
 [Ahab] erected an **altar** for Baal <br>
 in the **house** of Baal, which he **built** in Samaria. <br>
-33 And Ahab made an **Asherah**.
+[33](# "ref")
+And Ahab made an **Asherah**.
 
 Ahab did more to **provoke** the Lord, <br>
 the God of Israel, to **anger** <br>
