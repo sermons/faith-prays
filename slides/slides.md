@@ -126,7 +126,7 @@ in the name of the Lord.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# In **suffering**, **cheer**, and **weakness**, do I turn to **God** in prayer?
 
 ---
 ## outline
@@ -171,7 +171,7 @@ is powerful and **effective**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Do we pray for each other's **healing**, both physical and spiritual?
 
 ---
 ## outline
@@ -188,9 +188,6 @@ Again he **prayed**, and the heavens gave **rain**, <br>
 and the earth produced its crops.
 
 [James 5:17-18 (NIV)](# "ref")
-
->>>
-+
 
 ---
 [Ahab] erected an **altar** for Baal <br>
@@ -226,7 +223,7 @@ and I will send **rain** upon the earth.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I pray that God's **power** and **mercy** be shown?
 
 ---
 ## outline
@@ -265,7 +262,7 @@ because love **covers** a multitude of sins.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Do I pray for **restoration**, or for **judgment**?
 
 ---
 Therefore **confess** your sins to each other <br>
