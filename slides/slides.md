@@ -189,6 +189,9 @@ and the earth produced its crops.
 
 [James 5:17-18 (NIV)](# "ref")
 
+>>>
++ "as we are" (ὁμοιοπαθὴς): same **sufferings**
+
 ---
 [Ahab] erected an **altar** for Baal <br>
 in the **house** of Baal, which he **built** in Samaria. <br>
