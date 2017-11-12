@@ -460,31 +460,50 @@ and that you are **turning** their hearts back again.
 ## outline
 
 >>>
-+
++ prayer as primary **reaction** to:
+  + **suffering** from external attack
+  + **exultation** in God's abundant grace
+  + our own **weakness** to strive for holiness
++ corporate prayer with wish for **healing**
+  + physical and spiritual
++ prayer for God to show His own **justice** + mercy
+  + even if it means **chastening**
++ prayer for the **wanderer** to come **home**:
 
 ---
 My brothers and sisters, <br>
 if one of you should **wander** from the truth <br>
-and someone should bring that person **back**, <br>
-[20](# "ref")
-remember this:
+and someone should bring that person **back**
 
-Whoever **turns** a sinner <br>
-from the error of their way <br>
-will **save** them from death <br>
-and **cover** over a multitude of sins.
-
-[James 5:19-20 (NIV)](# "ref")
+[James 5:19 (NIV)](# "ref")
 
 >>>
 + "**wander**" (πλανηθῇ): go astray, be deceived
   + away from the **truth**
+  + implies was **once** with the truth
 + "bring back" (ἐπιστρέψῃ): **turn** back upon
+  + implies **seeking** them out
+  + change of **direction**
++ **repentance**: recog was wrong
+  + return towards the **truth**
+
+---
+Whoever turns a sinner <br>
+from the **error** of their way
+
+will **save** them from death <br>
+and **cover** over a multitude of sins.
+
+[James 5:20 (NIV)](# "ref")
+
+>>>
 + "error way" (πλάνης ὁδοῦ αὐτοῦ):
   + wandering of their **path**
-+ will **save**
-  + his **life** out of death
++ **save** his **life** out of death
 + and will **cover** (conceal, envelop)
++ our job is not to **convict** of sin
+  + that's Holy **Spirit**'s job
++ we want to **save** his/her **life**:
 
 ---
 Above all, keep **fervent** <br>
@@ -494,9 +513,21 @@ because love **covers** a multitude of sins.
 
 [1 Peter 4:8 (NASB)](# "ref")
 
+>>>
++ **pray** fervently for each other
++ **seek** e.o. out in love
++ to **turn** back home to Christ
++ who has **atoned** for our sins
+
 ---
 <!-- .slide: data-background="white" -->
-# Do I pray for **restoration**, or for **judgment**?
+# Do I pray for my brother/sister's **restoration**?
+
+>>>
++ **wandering** astray from God's truth
++ **turn** them back
++ to **save** their life
++ and **cover** over their sins
 
 ---
 Therefore **confess** your sins to each other <br>
