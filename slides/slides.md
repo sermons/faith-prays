@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="title" -->
 # Faith That Prays
 ## James 5:13-20
 
@@ -96,7 +96,7 @@ and **cover** over a multitude of sins.
 [James 5:19-20 (NIV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="outline" -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All **Occasions** [(v13-14)](# "ref")
 1. For **Healing** in Fellowship [(v15-16](# "ref")
@@ -224,7 +224,12 @@ so that **Christ’s power** may rest on me.
   + point to God's **power**
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+## Faith That Prays [(James 5b)](# "ref")
+1. For All Occasions [(v13-14)](# "ref")
+1. **For Healing in Fellowship** [(v15-16](# "ref")
+1. For a Testimony of God's Power [(v17-18)](# "ref")
+1. For Redemption of the Wanderers [(v19-20)](# "ref")
 
 >>>
 + the prayer of **faith** means
@@ -346,7 +351,12 @@ is **powerful** and **effective**.
   + made **whole** to walk the path again
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+## Faith That Prays [(James 5b)](# "ref")
+1. For All Occasions [(v13-14)](# "ref")
+1. For Healing in Fellowship [(v15-16](# "ref")
+1. **For a Testimony of God's Power** [(v17-18)](# "ref")
+1. For Redemption of the Wanderers [(v19-20)](# "ref")
 
 >>>
 + do I wish that others may see God's **power** + **mercy**?
@@ -457,7 +467,12 @@ and that you are **turning** their hearts back again.
 + demonstrate His **justice** + **mercy**
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
+## Faith That Prays [(James 5b)](# "ref")
+1. For All Occasions [(v13-14)](# "ref")
+1. For Healing in Fellowship [(v15-16](# "ref")
+1. For a Testimony of God's Power [(v17-18)](# "ref")
+1. **For Redemption of the Wanderers** [(v19-20)](# "ref")
 
 >>>
 + prayer as primary **reaction** to:
@@ -530,6 +545,7 @@ because love **covers** a multitude of sins.
 + and **cover** over their sins
 
 ---
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 Therefore **confess** your sins to each other <br>
 and **pray** for each other <br>
 so that you may be **healed**.
@@ -539,3 +555,4 @@ is powerful and **effective**.
 
 [James 5:16 (NIV)](# "ref")
 
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> class="empty" -->
