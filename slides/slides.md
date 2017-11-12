@@ -355,6 +355,7 @@ is **powerful** and **effective**.
 # Do we pray for <br> our **healing**, <br> both physical <br> and **spiritual**?
 
 >>>
++ w/in the **church** / fellowship
 + **purpose** (wish) of our prayer
   + is for **healing**
 + not just **sympathy** / co-misery
@@ -497,11 +498,11 @@ their hearts back again.
 >>>
 + prayer as primary **reaction** to:
   + **suffering** from external attack
-  + **exultation**: abundant grace
+  + **exultation**: God's abundant grace
   + own **weakness** in holiness
-+ corporate prayer with wish for **healing**
++ corporate prayer: wish for **healing**
   + physical and spiritual
-+ show God's **justice** + mercy
++ to show God's **justice** + mercy
   + even if it means **chastening**
 + for **wanderers** to come **home**:
 
@@ -516,17 +517,21 @@ and someone should bring that person **back**
 >>>
 + "**wander**" (πλανηθῇ):
   + go **astray**, be deceived
-  + away from the **truth**
++ away from the **truth**:
   + implies was **once** with the truth
++ e.g., **former** church friends
+  + do I **think** of them? **pray**?
 + "bring back" (ἐπιστρέψῃ):
   + **turn** back upon
-  + implies **seeking** them out
-  + change of **direction**
-+ **repentance**: recog was wrong
++ implies **seeking** them out
+  + not **waiting** for them to come
++ **stay** with them as they heal
+  + e.g. timeout vs stay until calm
++ **repentance**: recognize wrong
   + return towards the **truth**
 
 ---
-<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 Whoever turns a sinner <br>
 from the **error** of their way
 
@@ -539,13 +544,13 @@ and **cover** over a multitude of sins.
 + "error way" (πλάνης ὁδοῦ αὐτοῦ):
   + wandering of their **path**
 + **save** his **life** out of death
-+ and will **cover** (conceal, envelop)
++ and will **cover** (conceal, envelop):
 + our job is not to **convict** of sin
   + that's Holy **Spirit**'s job
 + we want to **save** his/her **life**:
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 Above all, keep **fervent** <br>
 in your **love** for one another,
 
@@ -554,6 +559,7 @@ because love **covers** a multitude of sins.
 [1 Peter 4:8 (NASB)](# "ref")
 
 >>>
++ e.g. SCAC ex-youth
 + **pray** fervently for each other
 + **seek** e.o. out in love
 + to **turn** back home to Christ
@@ -561,13 +567,15 @@ because love **covers** a multitude of sins.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I pray for my brother/sister's **restoration**?
+# How do I view those who **wander** from God? 
 
 >>>
-+ **wandering** astray from God's truth
-+ **turn** them back
++ "phew, thank God that's **not me**!"
+  + accuse: "I always **suspected**"
++ or: pray for **restoration**
+  + **seek** out, **turn** back
 + to **save** their life
-+ and **cover** over their sins
+  + and **cover** over their sins
 
 ---
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
