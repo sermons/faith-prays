@@ -117,7 +117,7 @@ Let them **pray**.
 [James 5:13a (NIV)](# "ref")
 
 >>>
-+ "trouble" (κακοπαθεῖ): **suffering** evil (pathos)
++ "trouble": **suffering** evil (pathos)
   + not: not getting my **way**
   + but **attacks** from enemy
   + e.g., **tempted** to sin
@@ -130,14 +130,15 @@ Let them **pray**.
 **Resist** the devil, and he will **flee** from you.
 
 [8](# "ref")
-Come **near** to God and he will come near to you.
+Come **near** to God <br>
+and he will come near to you.
 
 [James 4:7-8 (NIV)](# "ref")
 
 >>>
 + 5:13 **pray**: directed, earnest wish
 + pin **hopes** on God
-+ but prayer not just for times of **suffering**:
++ not just times of **suffering**:
 
 ---
 <!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
@@ -151,14 +152,14 @@ Let them sing **songs** of praise.
   + passion, rage
 + e.g., JJ excited Tintin, hits me
   + e.g., celebrate: party, drunk
-+ "sing songs of praise" (ψαλλέτω): **psalm**
++ "sing ..." (ψαλλέτω): **psalm**
   + simple **chorus**
   + focus on **God's** glory + grace
 + pray in:
   + **suffering** from attacks of evil one
   + good **cheer** in God's grace
   + our own **weakness**:
-    + inability to carry out God's **work**
+    + inability to do God's **work**
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
@@ -177,7 +178,7 @@ in the name of the Lord.
   + but also **spiritual**:
 + not **strong** enough to stay holy
   + **weary** of doing good
-+ let him **call** (AMM-3S) (προσκαλεσάσθω): call forth
++ let him **call** (AMM-3S): call forth
   + not that elders have **magic** touch
   + but special **role**
 + let them **pray** (AMM-3P)
@@ -200,7 +201,7 @@ and anointed him to **consecrate** him.
   + to live a **holy** life
   + to do God's **work**
 + remember: we **inherit** the anointing
-+ from the Anointed One: **Christ** / Messiah
++ from Anointed: **Christ** / Messiah
 + it is **ok** to be **weak**:
 
 ---
@@ -220,7 +221,7 @@ so that **Christ’s power** may rest on me.
 
 ---
 <!-- .slide: data-background="white" -->
-# In **suffering**, **cheer**, and **weakness**, do I turn to **God** in prayer?
+# In **suffering**, **cheer**, and **weakness**, <br> do I turn to **God** <br> in prayer?
 
 >>>
 + suffering: pathos from **external** attack
@@ -295,7 +296,7 @@ If they have sinned, they will be **forgiven**.
 [James 5:15 (NIV)](# "ref")
 
 >>>
-+ "sick" (κάμνοντα): **weary** to collapse/illness
++ "sick" (κάμνοντα): **weary** collapse/ill
   + weary from **labour**:
   + the work of **dying** to sin
   + old **habits** too hard to break
@@ -307,7 +308,7 @@ If they have sinned, they will be **forgiven**.
     + doctor's **failure** rate 100%
   + but a new **life**, new strength
 + "sinned": have **committed** (pf) sin
-  + "forgiven" (ἀφεθήσεται): sent away
+  + "forgiven": sent **away**
   + freedom from **guilt** over past sins
 + **power** of prayer that comes from
   + **faith** in Christ's promises
@@ -344,14 +345,14 @@ is **powerful** and **effective**.
 + πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη
   + a prayer of a **righteous** one,
   + as it **works** (accomplishing),
-  + **prevails** (is strong over) against much
+  + **prevails** (strong over) much
 + **who** is righteous?  **None**!
   + apart from the **grace** of God
-  + which **enables** our prayers to be heard
+  + **enables** our prayers to be heard
 
 ---
 <!-- .slide: data-background="white" -->
-# Do we pray for each other's **healing**, both physical and spiritual?
+# Do we pray for <br> our **healing**, <br> both physical <br> and **spiritual**?
 
 >>>
 + **purpose** (wish) of our prayer
@@ -424,12 +425,14 @@ these years, except by my **word**.”
 + not **Elijah's** kung-fu
 + resulting 3-yr **famine** was terrible
   + nearly eat own **horses** (ch18)
-  + affected **innocents** (widow's son, ch17)
-+ came to a head: **showdown** on Mt Carmel:
+  + affected **innocents**
+    + (widow's son, ch17)
++ climax: **showdown** on Mt Carmel:
 
 ---
 <!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
-How long will you **waver** between two opinions?
+How long will you **waver** <br>
+between two opinions?
 
 If the **Lord** is God, **follow** him; <br>
 but if Baal is God, follow him.
@@ -440,7 +443,7 @@ but if Baal is God, follow him.
 + call to true **commitment**:
 + not: wanting God's **blessings**
   + while following **own** way
-+ immediately afterward: the sound of **rain**
++ immediately after: sound of **rain**
   + God's **grace**:
 
 ---
@@ -461,7 +464,8 @@ and the earth produced its crops.
 **Answer** me, Lord, answer me, so these people <br>
 will know that you, Lord, are **God**,
 
-and that you are **turning** their hearts back again.
+and that you are **turning** <br>
+their hearts back again.
 
 [1 Kings 18:37 (NIV)](# "ref")
 
@@ -493,13 +497,13 @@ and that you are **turning** their hearts back again.
 >>>
 + prayer as primary **reaction** to:
   + **suffering** from external attack
-  + **exultation** in God's abundant grace
-  + our own **weakness** to strive for holiness
+  + **exultation**: abundant grace
+  + own **weakness** in holiness
 + corporate prayer with wish for **healing**
   + physical and spiritual
-+ prayer for God to show His own **justice** + mercy
++ show God's **justice** + mercy
   + even if it means **chastening**
-+ prayer for the **wanderer** to come **home**:
++ for **wanderers** to come **home**:
 
 ---
 <!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
@@ -510,10 +514,12 @@ and someone should bring that person **back**
 [James 5:19 (NIV)](# "ref")
 
 >>>
-+ "**wander**" (πλανηθῇ): go astray, be deceived
++ "**wander**" (πλανηθῇ):
+  + go **astray**, be deceived
   + away from the **truth**
   + implies was **once** with the truth
-+ "bring back" (ἐπιστρέψῃ): **turn** back upon
++ "bring back" (ἐπιστρέψῃ):
+  + **turn** back upon
   + implies **seeking** them out
   + change of **direction**
 + **repentance**: recog was wrong
@@ -574,4 +580,5 @@ is powerful and **effective**.
 
 [James 5:16 (NIV)](# "ref")
 
+---
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> class="empty" -->
