@@ -4,9 +4,13 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is **prayer** good for?
+# When do I **pray**?
 
 [###](#/outline "secret")
+
+>>>
++ when **stressed**, in pain?
++ when all **else** fails?
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -20,6 +24,12 @@
   + [(4b):](# "ref") Is **Humble**
 + [(5a):](# "ref") Looks to Christ's **Return**
   + [(5b):](# "ref") **Prays**
+
+>>>
++ **practical** faith
++ not just words, but **action**
++ **close** book of James with:
+  + exhortation to **prayer**
 
 ---
 [13](# "ref")
@@ -93,25 +103,64 @@ and **cover** over a multitude of sins.
 1. For a **Testimony** of God's Power [(v17-18)](# "ref")
 1. For **Redemption** of the Wanderers [(v19-20)](# "ref")
 
+>>>
++ faith put into **practise**
++ means prayer has **power**:
++ God's **power** to fulfill His **promises**
++ God's **compassion** to heal us
+
 ---
 Is anyone among you in **trouble**? <br>
 Let them **pray**.
 
-Is anyone **happy**?<br>
-Let them sing **songs** of praise.
-
-[James 5:13 (NIV)](# "ref")
+[James 5:13a (NIV)](# "ref")
 
 >>>
 + "trouble" (κακοπαθεῖ): **suffering** evil (pathos)
+  + not: not getting my **way**
+  + but **attacks** from enemy
+  + e.g., **tempted** to sin
++ response: **fight**? run away? quit?
+  + e.g., QQ contain **anger** by willpower
++ remember exhortation in ch4:
+
+---
+**Resist** the devil, and he will **flee** from you.
+
+[8](# "ref")
+Come **near** to God and he will come near to you.
+
+[James 4:7-8 (NIV)](# "ref")
+
+>>>
++ 5:13 **pray**: directed, earnest wish
++ pin **hopes** on God
++ but prayer not just for times of **suffering**:
+
+---
+Is anyone **happy**?<br>
+Let them sing **songs** of praise.
+
+[James 5:13b (NIV)](# "ref")
+
+>>>
 + "happy" (εὐθυμεῖ): good **cheer**
   + passion, rage
-+ "sing" (ψαλλέτω): **psalm**
++ e.g., JJ excited Tintin, hits me
+  + e.g., celebrate: party, drunk
++ "sing songs of praise" (ψαλλέτω): **psalm**
+  + simple **chorus**
+  + focus on **God's** glory + grace
++ pray in:
+  + **suffering** from attacks of evil one
+  + good **cheer** in God's grace
+  + our own **weakness**:
+    + inability to carry out God's **work**
 
 ---
 Is anyone among you **sick**?
 
-Let them call the **elders** of the church <br>
+Let them **call** the elders of the church <br>
 to **pray** over them <br>
 and **anoint** them with oil <br>
 in the name of the Lord.
@@ -120,13 +169,59 @@ in the name of the Lord.
 
 >>>
 + "sick" (ἀσθενεῖ): **weak**, ill
+  + can be **physical**
+  + but also **spiritual**:
++ not **strong** enough to stay holy
+  + **weary** of doing good
 + let him **call** (AMM-3S) (προσκαλεσάσθω): call forth
+  + not that elders have **magic** touch
+  + but special **role**
 + let them **pray** (AMM-3P)
   + **anointing** (participle)
+  + special **meaning** in OT:
+
+---
+He poured some of the **anointing oil** <br>
+on Aaron’s head <br>
+and anointed him to **consecrate** him.
+
+[Leviticus 8:12 (NIV)](# "ref")
+
+>>>
++ **cleansing** + **commissioning**
++ set **apart** (made holy)
+  + for a **purpose** (work to do)
++ &rArr; when we are too **weak**
+  + to live a **holy** life
+  + to do God's **work**
++ remember: we **inherit** the anointing
++ from the Anointed One: **Christ** / Messiah
++ it is **ok** to be **weak**:
+
+---
+He said to me, “My **grace** is sufficient for you, <br>
+for my **power** is made perfect in **weakness**.”
+
+Therefore I will **boast** all the more gladly <br>
+about my **weaknesses**, <br>
+so that **Christ’s power** may rest on me.
+
+[2 Corinthians 12:9 (NIV)](# "ref")
+
+>>>
++ our weakness shows Christ's **power**
++ Spirit **strengthens** us to be holy
 
 ---
 <!-- .slide: data-background="white" -->
 # In **suffering**, **cheer**, and **weakness**, do I turn to **God** in prayer?
+
+>>>
++ suffering: pathos from **external** attack
+  + e.g., **temptation**
++ cheer: exultation in God's **grace**
++ weak: **boast** in my weakness
+  + point to God's **power**
 
 ---
 ## outline
