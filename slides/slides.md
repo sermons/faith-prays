@@ -226,9 +226,55 @@ so that **Christ’s power** may rest on me.
 ---
 ## outline
 
+>>>
++ the prayer of **faith** means
+  + coming from a life of **trust** in God
++ gives us **hope** for **healing**
+
 ---
-And the prayer offered in **faith** <br>
-will make the **sick** person **well**; <br>
+And the prayer offered in **faith**
+
+will make the sick person well; <br>
+the Lord will raise them up.
+
+If they have sinned, they will be forgiven.
+
+[James 5:15 (NIV)](# "ref")
+
+>>>
++ the prayer of **the faith**
+  + not own **conviction** / persuasion
++ but same **faith** in all of James:
+  + **trust** in God's promises
+  + manifest in **action**
++ praying with faith is **not**:
+
+---
+## "God, I believe You will do what **I ask**"
+
+>>>
++ "if I believe **hard enough**, God will do"
+  + &rArr; who is **servant**, who is King?
+
+---
+## ~~"God, I believe You will do what **I ask**"~~
+
+vs
+
+## "God, I believe You will do <br/> what **You promised**"
+
+>>>
++ **submission** to God's will over mine
++ **trust** in His promises
++ **obedience** to His commands:
+  + faith in **action**
++ it is prayer from **this** kind of faith
+  + that can work **miracles**:
+
+---
+And the prayer offered in *faith*
+
+will make the **sick** person well; <br>
 the Lord will **raise** them up.
 
 If they have sinned, they will be **forgiven**.
@@ -236,40 +282,75 @@ If they have sinned, they will be **forgiven**.
 [James 5:15 (NIV)](# "ref")
 
 >>>
-+ the prayer of **the faith**
 + "sick" (κάμνοντα): **weary** to collapse/illness
-+ "well" (σώσει): **save**
-+ "raise" (ἐγερεῖ)
+  + weary from **labour**:
+  + the work of **dying** to sin
+  + old **habits** too hard to break
+  + sometimes want to **give up**
++ "well" (σώσει): **save**; "raise" (ἐγερεῖ):
+  + cf **resurrection**
+  + not just **physical** healing
+    + ultimately will **die**
+    + doctor's **failure** rate 100%
+  + but a new **life**, new strength
 + "sinned": have **committed** (pf) sin
   + "forgiven" (ἀφεθήσεται): sent away
+  + freedom from **guilt** over past sins
++ **power** of prayer that comes from
+  + **faith** in Christ's promises
+  + energises our **fellowship**:
 
 ---
-Therefore **confess** your sins to each other <br>
+Therefore **confess** your sins to each other
+
 and **pray** for each other <br>
 so that you may be **healed**.
 
-The prayer of a **righteous** person <br>
-is powerful and **effective**.
-
-[James 5:16 (NIV)](# "ref")
+[James 5:16a (NIV)](# "ref")
 
 >>>
 + "confess" (ἐξομολογεῖσθε):
   + word **in common** (spoken) out
   + **agreement** w/factual judgment
-+ "pray" (εὔχεσθε): wish (generally)
-  + (προσεύχομαι: toward God)
++ not for purpose of **harm**:
+  + **gossip**, blackmail, feeling superior
++ "pray" (εὔχεσθε): **wish** (generally)
+  + (cf προσεύχομαι: **toward** God)
++ for **healing** (ἰαθῆτε): cured of disease
+  + be made **whole** again
+
+---
+The prayer of a **righteous** person <br>
+is **powerful** and **effective**.
+
+[James 5:16b (NIV)](# "ref")
+
+>>>
 + πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη
   + a prayer of a **righteous** one,
   + as it **works** (accomplishing),
   + **prevails** (is strong over) against much
++ **who** is righteous?  **None**!
+  + apart from the **grace** of God
+  + which **enables** our prayers to be heard
 
 ---
 <!-- .slide: data-background="white" -->
 # Do we pray for each other's **healing**, both physical and spiritual?
 
+>>>
++ **purpose** (wish) of our prayer
+  + is for **healing**
++ not just **sympathy** / co-misery
++ freed from the **disease** of sin
+  + made **whole** to walk the path again
+
 ---
 ## outline
+
+>>>
++ do I wish that others may see God's **power** + **mercy**?
++ even if that means God's **chastisement**?
 
 ---
 **Elijah** was a human being, even as we are.
@@ -278,14 +359,12 @@ He prayed earnestly that it would not **rain**, <br>
 and it did not rain on the land <br>
 for **three** and a half years.
 
-[18](# "ref")
-Again he **prayed**, and the heavens gave **rain**, <br>
-and the earth produced its crops.
-
-[James 5:17-18 (NIV)](# "ref")
+[James 5:17 (NIV)](# "ref")
 
 >>>
 + "as we are" (ὁμοιοπαθὴς): same **sufferings**
++ what was the **context**?
++ wicked **king** Ahab:
 
 ---
 [Ahab] erected an **altar** for Baal <br>
@@ -299,6 +378,12 @@ than all the kings of Israel who were before him.
 
 [1 Kings 16:32-33 (ESV)](# "ref")
 
+>>>
++ "provoke": caused to be **angry**
++ also drew all **Israel** into sin with him
++ God did not completely **destroy** Israel
+  + but **chastened** them:
+
 ---
 Now **Elijah** the Tishbite said to Ahab,
 
@@ -310,21 +395,72 @@ these years, except by my **word**.”
 
 [1 Kings 17:1 (ESV)](# "ref")
 
+>>>
++ to demonstrate God's **power** to save
+  + contrast w/powerless **idols**
++ not **Elijah's** kung-fu
++ resulting 3-yr **famine** was terrible
+  + nearly eat own **horses** (ch18)
+  + affected **innocents** (widow's son, ch17)
++ came to a head: **showdown** on Mt Carmel:
+
 ---
-After many days the word of the **Lord** <br>
-came to Elijah, in the **third year**, saying,
+How long will you **waver** between two opinions?
 
-“Go, **show** yourself to Ahab, <br>
-and I will send **rain** upon the earth.”
+If the **Lord** is God, **follow** him; <br>
+but if Baal is God, follow him.
 
-[1 Kings 18:1 (ESV)](# "ref")
+[1 Kings 18:21 (NIV)](# "ref")
+
+>>>
++ call to true **commitment**:
++ not: wanting God's **blessings**
+  + while following **own** way
++ immediately afterward: the sound of **rain**
+  + God's **grace**:
+
+---
+Again he **prayed**, and the heavens gave **rain**, <br>
+and the earth produced its crops.
+
+[James 5:18 (NIV)](# "ref")
+
+>>>
++ God **disciplined**, not to destruction
++ to call them to **commitment**
++ but still demonstrated his **grace**
++ Elijah's **prayer**:
+
+---
+**Answer** me, Lord, answer me, so these people <br>
+will know that you, Lord, are **God**,
+
+and that you are **turning** their hearts back again.
+
+[1 Kings 18:37 (NIV)](# "ref")
+
+>>>
++ know that He is **God**
+  + **justice**, power
++ know that He **turns** our hearts
+  + longs for our **redemption**
+  + loves to show **mercy**
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I pray that God's **power** and **mercy** be shown?
 
+>>>
++ do I pray only for my **own** blessings?
++ am I prepared for God's **chastening**
++ to call us to **commitment**
++ demonstrate His **justice** + **mercy**
+
 ---
 ## outline
+
+>>>
++
 
 ---
 My brothers and sisters, <br>
