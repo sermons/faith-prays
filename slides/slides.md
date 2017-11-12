@@ -110,6 +110,7 @@ and **cover** over a multitude of sins.
 + God's **compassion** to heal us
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 Is anyone among you in **trouble**? <br>
 Let them **pray**.
 
@@ -125,6 +126,7 @@ Let them **pray**.
 + remember exhortation in ch4:
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 **Resist** the devil, and he will **flee** from you.
 
 [8](# "ref")
@@ -138,6 +140,7 @@ Come **near** to God and he will come near to you.
 + but prayer not just for times of **suffering**:
 
 ---
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 Is anyone **happy**?<br>
 Let them sing **songs** of praise.
 
@@ -158,6 +161,7 @@ Let them sing **songs** of praise.
     + inability to carry out God's **work**
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 Is anyone among you **sick**?
 
 Let them **call** the elders of the church <br>
@@ -181,6 +185,7 @@ in the name of the Lord.
   + special **meaning** in OT:
 
 ---
+<!-- .slide: <%= bg("unsplash-uOBApnN_K7w-oil.jpg") %> -->
 He poured some of the **anointing oil** <br>
 on Aaron’s head <br>
 and anointed him to **consecrate** him.
@@ -199,6 +204,7 @@ and anointed him to **consecrate** him.
 + it is **ok** to be **weak**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> -->
 He said to me, “My **grace** is sufficient for you, <br>
 for my **power** is made perfect in **weakness**.”
 
@@ -237,6 +243,7 @@ so that **Christ’s power** may rest on me.
 + gives us **hope** for **healing**
 
 ---
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 And the prayer offered in **faith**
 
 will make the sick person well; <br>
@@ -277,6 +284,7 @@ vs
   + that can work **miracles**:
 
 ---
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 And the prayer offered in *faith*
 
 will make the **sick** person well; <br>
@@ -306,6 +314,7 @@ If they have sinned, they will be **forgiven**.
   + energises our **fellowship**:
 
 ---
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
 Therefore **confess** your sins to each other
 
 and **pray** for each other <br>
@@ -325,6 +334,7 @@ so that you may be **healed**.
   + be made **whole** again
 
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 The prayer of a **righteous** person <br>
 is **powerful** and **effective**.
 
@@ -363,6 +373,7 @@ is **powerful** and **effective**.
 + even if that means God's **chastisement**?
 
 ---
+<!-- .slide: <%= bg("Volterra-Prophet_Elijah.jpg") %> -->
 **Elijah** was a human being, even as we are.
 
 He prayed earnestly that it would not **rain**, <br>
@@ -377,6 +388,7 @@ for **three** and a half years.
 + wicked **king** Ahab:
 
 ---
+<!-- .slide: <%= bg("Wellcome-Ahab_Elijah.jpg") %> -->
 [Ahab] erected an **altar** for Baal <br>
 in the **house** of Baal, which he **built** in Samaria. <br>
 [33](# "ref")
@@ -395,6 +407,7 @@ than all the kings of Israel who were before him.
   + but **chastened** them:
 
 ---
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 Now **Elijah** the Tishbite said to Ahab,
 
 “As the **Lord**, the God of Israel, <br>
@@ -415,6 +428,7 @@ these years, except by my **word**.”
 + came to a head: **showdown** on Mt Carmel:
 
 ---
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
 How long will you **waver** between two opinions?
 
 If the **Lord** is God, **follow** him; <br>
@@ -430,6 +444,7 @@ but if Baal is God, follow him.
   + God's **grace**:
 
 ---
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
 Again he **prayed**, and the heavens gave **rain**, <br>
 and the earth produced its crops.
 
@@ -442,6 +457,7 @@ and the earth produced its crops.
 + Elijah's **prayer**:
 
 ---
+<!-- .slide: <%= bg("unsplash-3Kv48NS4WUU-road_forest_light.jpg") %> -->
 **Answer** me, Lord, answer me, so these people <br>
 will know that you, Lord, are **God**,
 
@@ -486,6 +502,7 @@ and that you are **turning** their hearts back again.
 + prayer for the **wanderer** to come **home**:
 
 ---
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 My brothers and sisters, <br>
 if one of you should **wander** from the truth <br>
 and someone should bring that person **back**
@@ -503,6 +520,7 @@ and someone should bring that person **back**
   + return towards the **truth**
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 Whoever turns a sinner <br>
 from the **error** of their way
 
@@ -521,6 +539,7 @@ and **cover** over a multitude of sins.
 + we want to **save** his/her **life**:
 
 ---
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 Above all, keep **fervent** <br>
 in your **love** for one another,
 
