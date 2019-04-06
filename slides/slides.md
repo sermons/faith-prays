@@ -297,6 +297,7 @@ If they have sinned, they will be **forgiven**.
 
 >>>
 + "sick" (κάμνοντα): **weary** collapse/ill
+  + c.f. v14 weak/ill 
   + weary from **labour**:
   + the work of **dying** to sin
   + old **habits** too hard to break
