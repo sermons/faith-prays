@@ -2,11 +2,9 @@
 # Reveal-Skel
 ## A template for Reveal.js-based presentations
 
-<div>
 [![Travis builds](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
 [![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
 [![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
-</div>
 
 [(open master view)](http://reveal-skel.seanho.com/?s=45ba034647cea150 "ref")
 
@@ -76,12 +74,12 @@ class BST:
 
 <div class="imgbox">
 <div>
-Yay for **multi-col** layout! <br/>
+Yay for multi-col layout! <br/>
 1/3 width for text <br/>
-No block-level markdown
+No markdown in HTML
 </div>
 <div style="flex:2">
-![Stars](https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg)
+<img alt="Stars" src="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg"/>
 </div>
 </div>
 
