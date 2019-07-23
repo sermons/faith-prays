@@ -99,7 +99,7 @@ and **cover** over a multitude of sins.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="outline" -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All **Occasions** [(v13-14)](# "ref")
-1. For **Healing** in Fellowship [(v15-16](# "ref")
+1. For **Healing** in Fellowship [(v15-16)](# "ref")
 1. For a **Testimony** of God's Power [(v17-18)](# "ref")
 1. For **Redemption** of the Wanderers [(v19-20)](# "ref")
 
@@ -234,7 +234,7 @@ so that **Christ’s power** may rest on me.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All Occasions [(v13-14)](# "ref")
-1. **For Healing in Fellowship** [(v15-16](# "ref")
+1. **For Healing in Fellowship** [(v15-16)](# "ref")
 1. For a Testimony of God's Power [(v17-18)](# "ref")
 1. For Redemption of the Wanderers [(v19-20)](# "ref")
 
@@ -367,7 +367,7 @@ is **powerful** and **effective**.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All Occasions [(v13-14)](# "ref")
-1. For Healing in Fellowship [(v15-16](# "ref")
+1. For Healing in Fellowship [(v15-16)](# "ref")
 1. **For a Testimony of God's Power** [(v17-18)](# "ref")
 1. For Redemption of the Wanderers [(v19-20)](# "ref")
 
@@ -492,7 +492,7 @@ their hearts back again.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All Occasions [(v13-14)](# "ref")
-1. For Healing in Fellowship [(v15-16](# "ref")
+1. For Healing in Fellowship [(v15-16)](# "ref")
 1. For a Testimony of God's Power [(v17-18)](# "ref")
 1. **For Redemption of the Wanderers** [(v19-20)](# "ref")
 
