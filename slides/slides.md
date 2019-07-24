@@ -6,8 +6,6 @@
 <!-- .slide: data-background="white" -->
 # When do I **pray**?
 
-[###](#/outline "secret")
-
 >>>
 + when **stressed**, in pain?
 + when all **else** fails?
@@ -30,7 +28,7 @@
 + **close** book of James with:
   + exhortation to **prayer**
 
----
+******
 [13](# "ref")
 Is anyone among you in **trouble**? <br>
 Let them **pray**. Is anyone **happy**?<br>
@@ -44,7 +42,7 @@ with oil in the name of the Lord.
 
 [James 5:13-14 (NIV) (p.1/5)](# "ref")
 
----
+******
 [15](# "ref")
 And the prayer offered in **faith** <br>
 will make the **sick** person well; <br>
@@ -54,7 +52,7 @@ If they have sinned, they will be **forgiven**.
 
 [James 5:15 (NIV) (p.2/5)](# "ref")
 
----
+******
 [16](# "ref")
 Therefore **confess** your sins to each other <br>
 and **pray** for each other <br>
@@ -65,7 +63,7 @@ is powerful and **effective**.
 
 [James 5:16 (NIV) (p.3/5)](# "ref")
 
----
+******
 [17](# "ref")
 **Elijah** was a human being, even as we are.
 
@@ -79,7 +77,7 @@ and the earth produced its crops.
 
 [James 5:17-18 (NIV) (p.4/5)](# "ref")
 
----
+******
 [19](# "ref")
 My brothers and sisters, <br>
 if one of you should **wander** from the truth <br>
@@ -95,7 +93,7 @@ and **cover** over a multitude of sins.
 [James 5:19-20 (NIV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="outline" class="outline" -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All **Occasions** [(v13-14)](# "ref")
 1. For **Healing** in Fellowship [(v15-16)](# "ref")
