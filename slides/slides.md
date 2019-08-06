@@ -6,11 +6,11 @@
 <!-- .slide: data-background="white" -->
 # When do I **pray**?
 
-[###](#/outline "secret")
-
 >>>
 + when **stressed**, in pain?
-+ when all **else** fails?
++ when all **else** fails? **backup** option? 
++ **attitude** to prayer reveals
+  + whether I have **faith** in God's promises
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> id="review" -->
@@ -95,10 +95,10 @@ and **cover** over a multitude of sins.
 [James 5:19-20 (NIV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> id="outline" class="outline" -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All **Occasions** [(v13-14)](# "ref")
-1. For **Healing** in Fellowship [(v15-16](# "ref")
+1. For **Healing** in Fellowship [(v15-16)](# "ref")
 1. For a **Testimony** of God's Power [(v17-18)](# "ref")
 1. For **Redemption** of the Wanderers [(v19-20)](# "ref")
 
@@ -107,6 +107,9 @@ and **cover** over a multitude of sins.
 + means prayer has **power**:
 + God's **power** to fulfill His **promises**
 + God's **compassion** to heal us
++ 1st: prayer covers the range of
+  + human **emotion** + experience
+  + in **suffering**, cheer, weakness:
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
@@ -154,11 +157,8 @@ Let them sing **songs** of praise.
 + "sing ..." (ψαλλέτω): **psalm**
   + simple **chorus**
   + focus on **God's** glory + grace
-+ pray in:
-  + **suffering** from attacks of evil one
-  + good **cheer** in God's grace
-  + our own **weakness**:
-    + inability to do God's **work**
++ next, our own **weakness**:
+  + inability to do God's **work**
 
 ---
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
@@ -233,7 +233,7 @@ so that **Christ’s power** may rest on me.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All Occasions [(v13-14)](# "ref")
-1. **For Healing in Fellowship** [(v15-16](# "ref")
+1. **For Healing in Fellowship** [(v15-16)](# "ref")
 1. For a Testimony of God's Power [(v17-18)](# "ref")
 1. For Redemption of the Wanderers [(v19-20)](# "ref")
 
@@ -287,10 +287,10 @@ vs
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 And the prayer offered in *faith*
 
-will make the **sick** person well; <br>
+will make the **sick** person **well**; <br>
 the Lord will **raise** them up.
 
-If they have sinned, they will be **forgiven**.
+If they have **sinned**, they will be **forgiven**.
 
 [James 5:15 (NIV)](# "ref")
 
@@ -304,8 +304,7 @@ If they have sinned, they will be **forgiven**.
 + "well" (σώσει): **save**; "raise" (ἐγερεῖ):
   + cf **resurrection**
   + not just **physical** healing
-    + ultimately will **die**
-    + doctor's **failure** rate 100%
+    + ultimately body will **die**
   + but a new **life**, new strength
 + "sinned": have **committed** (pf) sin
   + "forgiven": sent **away**
@@ -343,9 +342,9 @@ is **powerful** and **effective**.
 
 >>>
 + πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη
+  + **prevails** (strong over) over much
   + a prayer of a **righteous** one,
-  + as it **works** (accomplishing),
-  + **prevails** (strong over) much
+  + as it **works** (accomplishing)
 + **who** is righteous?  **None**!
   + apart from the **grace** of God
   + **enables** our prayers to be heard
@@ -366,7 +365,7 @@ is **powerful** and **effective**.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All Occasions [(v13-14)](# "ref")
-1. For Healing in Fellowship [(v15-16](# "ref")
+1. For Healing in Fellowship [(v15-16)](# "ref")
 1. **For a Testimony of God's Power** [(v17-18)](# "ref")
 1. For Redemption of the Wanderers [(v19-20)](# "ref")
 
@@ -491,7 +490,7 @@ their hearts back again.
 <!-- .slide: <%= bg("unsplash-YGJyFwmEC68-boy_bible.jpg") %> -->
 ## Faith That Prays [(James 5b)](# "ref")
 1. For All Occasions [(v13-14)](# "ref")
-1. For Healing in Fellowship [(v15-16](# "ref")
+1. For Healing in Fellowship [(v15-16)](# "ref")
 1. For a Testimony of God's Power [(v17-18)](# "ref")
 1. **For Redemption of the Wanderers** [(v19-20)](# "ref")
 

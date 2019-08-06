@@ -55,6 +55,7 @@ class BST:
       else:               # found it!
         return cur
 ```
+<!-- .element: data-line-numbers="14-17" -->
 
 ******
 <!-- .slide: data-background="white" -->
@@ -72,16 +73,19 @@ class BST:
 ******
 ## Point Two
 
-<div class="imgbox">
-<div>
-Yay for multi-col layout! <br/>
-1/3 width for text <br/>
-No markdown in HTML
+<!-- HTML in separate paragraph -->
+<div class="imgbox"><div>
+
++ **Multi-col** layout!
++ 1/3 width for text
++ `imgbox` div
+
 </div>
 <div style="flex:2">
-<img alt="Stars" src="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg"/>
-</div>
-</div>
+
+![Stars](https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg)
+
+</div></div>
 
 ******
 <!-- .slide: data-background="white" -->
